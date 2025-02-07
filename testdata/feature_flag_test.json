@@ -1,0 +1,10 @@
+[
+    {
+        "Id":"1234",
+        "Name":"TestFlag"
+    },
+    {
+        "Id":"SecondTest",
+        "Name":"SecondFeatureFlag"
+    }
+]
